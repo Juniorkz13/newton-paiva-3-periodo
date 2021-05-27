@@ -6,6 +6,9 @@
         <class>modelo.Cargo</class>
         <class>modelo.Empresa</class>
         <class>modelo.Endereco</class>
+        <class>modelo.Extrato</class>
+        <class>modelo.Funcionario</class>
+        <class>modelo.ItemExtrato</class>
 
         <properties>
             <property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver" />

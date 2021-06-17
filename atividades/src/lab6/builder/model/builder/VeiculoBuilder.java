@@ -1,6 +1,6 @@
-package lab6.model.builder;
+package lab6.builder.model.builder;
 
-import lab6.model.Veiculo;
+import lab6.builder.model.Veiculo;
 
 public class VeiculoBuilder {
 

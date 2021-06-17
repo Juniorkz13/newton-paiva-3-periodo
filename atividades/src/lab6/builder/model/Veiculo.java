@@ -1,4 +1,4 @@
-package lab6.model;
+package lab6.builder.model;
 
 public class Veiculo {
 

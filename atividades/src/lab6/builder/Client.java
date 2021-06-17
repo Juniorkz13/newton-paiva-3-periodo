@@ -1,7 +1,7 @@
-package lab6;
+package lab6.builder;
 
-import lab6.model.Veiculo;
-import lab6.model.builder.VeiculoBuilder;
+import lab6.builder.model.Veiculo;
+import lab6.builder.model.builder.VeiculoBuilder;
 
 public class Client {
 

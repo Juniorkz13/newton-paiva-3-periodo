@@ -14,7 +14,10 @@ public class ContaBancaria {
 
 	private List<String> extrato = new ArrayList<>();
 
-	public String getBanco() {
+	public ContaBancaria(String string, String string2, String string3, String string4) {
+    }
+
+    public String getBanco() {
 		return banco;
 	}
 
